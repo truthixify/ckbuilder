@@ -20,6 +20,8 @@ weekly-reports/
   week-1/
     README.md       # Weekly progress report
     images/         # Screenshots and proof of completion
+  week-2/
+    README.md       # Weekly progress report
 ```
 
 Each weekly report covers what I studied, what I completed, any blockers, and my plan for the following week.
