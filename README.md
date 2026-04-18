@@ -20,12 +20,14 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 | [Week 1](weekly-reports/week-1/) | Mar 23–29 | Environment setup, CKB Academy Lesson 1, core concepts |
 | [Week 2](weekly-reports/week-2/) | Mar 30–Apr 5 | Lock script in Rust, "Learn CKB in 45 Minutes", Grid3 on-chain Tic Tac Toe |
 | [Week 3](weekly-reports/week-3/) | Apr 6–11 | Built and shipped Haven Protocol — privacy reputation layer on CKB |
+| [Week 4](weekly-reports/week-4/) | Apr 12–18 | CKB integration into Wraith Protocol — stealth-lock, names-type, SDK, demo |
 
 ## Projects
 
 - **[Learn CKB in 45 Minutes](https://github.com/truthixify/learn-ckb-in-45-minutes)** — Structured learning guide with 13 chapters, 40 questions, and a working Rust script
 - **[Grid3](https://github.com/truthixify/grid3)** — Fully on-chain Tic Tac Toe on CKB testnet ([live](https://grid3-ckb.vercel.app/))
 - **[Haven Protocol](https://github.com/truthixify/haven)** — Privacy reputation layer on CKB with TEE + SP1 proofs ([live](https://haven-protocol.vercel.app))
+- **[Wraith Protocol](https://github.com/wraith-protocol)** — Multichain stealth address platform with CKB support — custom scripts, SDK, demo ([live](https://demo.usewraith.xyz))
 
 ## How This Repo Is Organized
 
@@ -38,6 +40,8 @@ weekly-reports/
     README.md       # Weekly progress report
     images/         # Screenshots
   week-3/
+    README.md       # Weekly progress report
+  week-4/
     README.md       # Weekly progress report
 ```
 
