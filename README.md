@@ -21,6 +21,8 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 | [Week 2](weekly-reports/week-2/) | Mar 30–Apr 5 | Lock script in Rust, "Learn CKB in 45 Minutes", Grid3 on-chain Tic Tac Toe |
 | [Week 3](weekly-reports/week-3/) | Apr 6–11 | Built and shipped Haven Protocol — privacy reputation layer on CKB |
 | [Week 4](weekly-reports/week-4/) | Apr 12–18 | CKB integration into Wraith Protocol — stealth-lock, names-type, SDK, demo |
+| [Week 5](weekly-reports/week-5/) | Apr 19–25 | Grid3 fixes — draw payouts, fee structure, dual script differentiation |
+| [Week 6](weekly-reports/week-6/) | Apr 26–May 2 | Haven Protocol fixes — critical proof verification, type script enforcement, deposit validation |
 
 ## Projects
 
@@ -42,6 +44,10 @@ weekly-reports/
   week-3/
     README.md       # Weekly progress report
   week-4/
+    README.md       # Weekly progress report
+  week-5/
+    README.md       # Weekly progress report
+  week-6/
     README.md       # Weekly progress report
 ```
 
