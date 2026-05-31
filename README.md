@@ -23,6 +23,10 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 | [Week 4](weekly-reports/week-4/) | Apr 12–18 | CKB integration into Wraith Protocol — stealth-lock, names-type, SDK, demo |
 | [Week 5](weekly-reports/week-5/) | Apr 19–25 | Grid3 fixes — draw payouts, fee structure, dual script differentiation |
 | [Week 6](weekly-reports/week-6/) | Apr 26–May 2 | Haven Protocol fixes — critical proof verification, type script enforcement, deposit validation |
+| [Week 7](weekly-reports/week-7/) | May 3–9 | Fiber Network — payment channel network foundations |
+| [Week 8](weekly-reports/week-8/) | May 10–16 | Vellum — `did:ckb` dashboard + draft `@ckb-ccc/identity` SDK package |
+| [Week 9](weekly-reports/week-9/) | May 17–23 | CKB Action Links — draft protocol for shareable CKB transaction URLs, reference SDK/server/client |
+| [Week 10](weekly-reports/week-10/) | May 24–30 | CKB Action Links — UI/UX iteration from forum feedback (typed forms, sign preview, error mapping, mobile) |
 
 ## Projects
 
@@ -30,6 +34,8 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 - **[Grid3](https://github.com/truthixify/grid3)** — Fully on-chain Tic Tac Toe on CKB testnet ([live](https://grid3-ckb.vercel.app/))
 - **[Haven Protocol](https://github.com/truthixify/haven)** — Privacy reputation layer on CKB with TEE + SP1 proofs ([live](https://haven-protocol.vercel.app))
 - **[Wraith Protocol](https://github.com/wraith-protocol)** — Multichain stealth address platform with CKB support — custom scripts, SDK, demo ([live](https://demo.usewraith.xyz))
+- **[Vellum](https://github.com/truthixify/vellum)** — Reference dashboard for `did:ckb` (WIP-01) + draft `@ckb-ccc/identity` SDK package ([live](https://vellum-lyart.vercel.app))
+- **[CKB Action Links](https://github.com/truthixify/ckb-actions)** — Draft protocol for shareable CKB transaction URLs, with SDK, server, and client ([client](https://ckb-actions.vercel.app) · [endpoint](https://ckb-actions.onrender.com) · [forum](https://talk.nervos.org/t/ckb-action-links-a-draft-protocol-for-shareable-ckb-transaction-urls/10315))
 
 ## How This Repo Is Organized
 
@@ -48,6 +54,14 @@ weekly-reports/
   week-5/
     README.md       # Weekly progress report
   week-6/
+    README.md       # Weekly progress report
+  week-7/
+    README.md       # Weekly progress report
+  week-8/
+    README.md       # Weekly progress report
+  week-9/
+    README.md       # Weekly progress report
+  week-10/
     README.md       # Weekly progress report
 ```
 
