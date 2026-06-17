@@ -27,6 +27,8 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 | [Week 8](weekly-reports/week-8/) | May 10–16 | Vellum — `did:ckb` dashboard + draft `@ckb-ccc/identity` SDK package |
 | [Week 9](weekly-reports/week-9/) | May 17–23 | CKB Action Links — draft protocol for shareable CKB transaction URLs, reference SDK/server/client |
 | [Week 10](weekly-reports/week-10/) | May 24–30 | CKB Action Links — UI/UX iteration from forum feedback (typed forms, sign preview, error mapping, mobile) |
+| [Week 11](weekly-reports/week-11/) | May 31–Jun 6 | Infern — compute marketplace spec (per-request payments over Fiber), monorepo scaffold, F402 handshake |
+| [Week 12](weekly-reports/week-12/) | Jun 7–13 | Infern end-to-end demo on testnet + CCC PR #376 (did-ckb resolver, history walk, did:plc migration) |
 
 ## Projects
 
@@ -36,6 +38,7 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 - **[Wraith Protocol](https://github.com/wraith-protocol)** — Multichain stealth address platform with CKB support — custom scripts, SDK, demo ([live](https://demo.usewraith.xyz))
 - **[Vellum](https://github.com/truthixify/vellum)** — Reference dashboard for `did:ckb` (WIP-01) + draft `@ckb-ccc/identity` SDK package ([live](https://vellum-lyart.vercel.app))
 - **[CKB Action Links](https://github.com/truthixify/ckb-actions)** — Draft protocol for shareable CKB transaction URLs, with SDK, server, and client ([client](https://ckb-actions.vercel.app) · [endpoint](https://ckb-actions.onrender.com) · [forum](https://talk.nervos.org/t/ckb-action-links-a-draft-protocol-for-shareable-ckb-transaction-urls/10315))
+- **[Infern](https://github.com/truthixify/infern)** — Compute marketplace where individuals serve models and get paid per request over Fiber — provider agent, F402 handshake, consumer SDK, indexer
 
 ## How This Repo Is Organized
 
@@ -62,6 +65,10 @@ weekly-reports/
   week-9/
     README.md       # Weekly progress report
   week-10/
+    README.md       # Weekly progress report
+  week-11/
+    README.md       # Weekly progress report
+  week-12/
     README.md       # Weekly progress report
 ```
 
