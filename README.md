@@ -29,6 +29,7 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 | [Week 10](weekly-reports/week-10/) | May 24–30 | CKB Action Links — UI/UX iteration from forum feedback (typed forms, sign preview, error mapping, mobile) |
 | [Week 11](weekly-reports/week-11/) | May 31–Jun 6 | Infern — compute marketplace spec (per-request payments over Fiber), monorepo scaffold, F402 handshake |
 | [Week 12](weekly-reports/week-12/) | Jun 7–13 | Infern end-to-end demo on testnet + CCC PR #376 (did-ckb resolver, history walk, did:plc migration) |
+| [Week 13](weekly-reports/week-13/) | Jun 14–20 | Infern intro post (public testnet) + Vellum reputation design post + CCC PR #376 merged |
 
 ## Projects
 
@@ -36,7 +37,7 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 - **[Grid3](https://github.com/truthixify/grid3)** — Fully on-chain Tic Tac Toe on CKB testnet ([live](https://grid3-ckb.vercel.app/))
 - **[Haven Protocol](https://github.com/truthixify/haven)** — Privacy reputation layer on CKB with TEE + SP1 proofs ([live](https://haven-protocol.vercel.app))
 - **[Wraith Protocol](https://github.com/wraith-protocol)** — Multichain stealth address platform with CKB support — custom scripts, SDK, demo ([live](https://demo.usewraith.xyz))
-- **[Vellum](https://github.com/truthixify/vellum)** — Reference dashboard for `did:ckb` (WIP-01) + draft `@ckb-ccc/identity` SDK package ([live](https://vellum-lyart.vercel.app))
+- **[Vellum](https://github.com/truthixify/vellum)** — `did:ckb` (WIP-01) identity dashboard extended into on-chain reputation — self-declared profile + signed external claim cells, contributing to `@ckb-ccc/did-ckb` ([live](https://vellum-lyart.vercel.app))
 - **[CKB Action Links](https://github.com/truthixify/ckb-actions)** — Draft protocol for shareable CKB transaction URLs, with SDK, server, and client ([client](https://ckb-actions.vercel.app) · [endpoint](https://ckb-actions.onrender.com) · [forum](https://talk.nervos.org/t/ckb-action-links-a-draft-protocol-for-shareable-ckb-transaction-urls/10315))
 - **[Infern](https://github.com/truthixify/infern)** — Compute marketplace where individuals serve models and get paid per request over Fiber — provider agent, F402 handshake, consumer SDK, indexer
 
@@ -69,6 +70,8 @@ weekly-reports/
   week-11/
     README.md       # Weekly progress report
   week-12/
+    README.md       # Weekly progress report
+  week-13/
     README.md       # Weekly progress report
 ```
 
