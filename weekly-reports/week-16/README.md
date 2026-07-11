@@ -72,5 +72,5 @@ Not a block explorer, not a wallet, not an indexer. One transaction, visualized 
 ## Plan for Week 17
 
 - Wrap up the Fiber hackathon submission ahead of the July 15 deadline.
-- Fold `[DIS]` feedback into the Vellum reputation proposal and move it toward a DAO decision.
+- Start building Vellum — the Community Fund DAO proposal has passed (decision window closes July 12), so kick off M1: the claim cell type script, `readClaims` / `writeClaim`, the scoring engine, and schema docs.
 - Carry forward Infern's inference and honesty-check layers.
