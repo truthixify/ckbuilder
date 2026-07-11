@@ -38,4 +38,3 @@ Project specifics are held back until after the July 15 deadline — I'll write 
 
 - Keep building toward the July 15 hackathon deadline.
 - Ship a smaller standalone tool in parallel — a CKB transaction visualizer.
-</content>
