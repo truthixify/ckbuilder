@@ -31,6 +31,8 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 | [Week 12](weekly-reports/week-12/) | Jun 7–13 | Infern end-to-end demo on testnet + CCC PR #376 (did-ckb resolver, history walk, did:plc migration) |
 | [Week 13](weekly-reports/week-13/) | Jun 14–20 | Infern intro post (public testnet) + Vellum reputation design post + CCC PR #376 merged |
 | [Week 14](weekly-reports/week-14/) | Jun 21–27 | DIR — open directory of CKB-native project ideas (30 seed ideas, 9 categories) + Vellum `[DIS]` reputation grant proposal to the Community Fund DAO |
+| [Week 15](weekly-reports/week-15/) | Jun 28–Jul 4 | Building for the "Gone in 60ms" Fiber Network infrastructure hackathon (entry held back until the Jul 15 deadline) |
+| [Week 16](weekly-reports/week-16/) | Jul 5–11 | ckb-viz — read-only CKB transaction visualizer (script decoding, plain-language summaries, lineage tracing) |
 
 ## Projects
 
@@ -42,6 +44,7 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 - **[CKB Action Links](https://github.com/truthixify/ckb-actions)** — Draft protocol for shareable CKB transaction URLs, with SDK, server, and client ([client](https://ckb-actions.vercel.app) · [endpoint](https://ckb-actions.onrender.com) · [forum](https://talk.nervos.org/t/ckb-action-links-a-draft-protocol-for-shareable-ckb-transaction-urls/10315))
 - **[Infern](https://github.com/truthixify/infern)** — Compute marketplace where individuals serve models and get paid per request over Fiber — provider agent, F402 handshake, consumer SDK, indexer
 - **[DIR](https://github.com/truthixify/dir)** — Open directory of CKB-native project ideas where builders publicly commit, build, and ship on-chain — 30 seed ideas across 9 categories, PR-based contribution ([live](https://dir-nine.vercel.app) · [forum](https://talk.nervos.org/t/introducing-dir-an-open-directory-and-standing-request-for-ckb-native-ideas/10415))
+- **[ckb-viz](https://github.com/truthixify/ckb-viz)** — Read-only CKB transaction visualizer — paste a tx hash to see inputs → outputs flow, decoded lock/type scripts, plain-language summaries, and cell lineage tracing ([live](https://ckb-viz.truthixify.dev))
 
 ## How This Repo Is Organized
 
@@ -76,6 +79,10 @@ weekly-reports/
   week-13/
     README.md       # Weekly progress report
   week-14/
+    README.md       # Weekly progress report
+  week-15/
+    README.md       # Weekly progress report
+  week-16/
     README.md       # Weekly progress report
 ```
 
