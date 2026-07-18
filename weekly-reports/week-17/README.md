@@ -37,17 +37,20 @@ This is the piece that makes ckb-viz useful while building, not just while debug
 - Off-chain Spore content links, so DOB/Spore cells point at what they actually carry.
 - Clearer error messaging across the board.
 
-### Fiber hackathon — window closed
+### Fiber hackathon — fiber-forge
 
-The "Gone in 60ms" Fiber Network infrastructure hackathon submission window ended July 15. Project details stay held back until submissions are public; write-up to follow.
+The "Gone in 60ms" Fiber Network infrastructure hackathon submission window ended July 15, so the entry is now public: **[fiber-forge](https://github.com/truthixify/fiber-forge)**, a local development tool for Fiber (Category 2 — Node, Routing & Diagnostics).
+
+It stands up a complete local Fiber payment-channel network with a single command — starts a CKB dev chain and several Fiber nodes, funds them, connects them as peers, and opens the channels between them. Ships preset topologies (duo, trio, hub, line, ring, star), a web GUI for visualizing and managing the network, multi-hop payment routing, channel open/close lifecycle, UDT asset support, real-time node monitoring, and scripted traffic scenarios — with multiple concurrent networks on separate subnets. TypeScript on Node 20+ with Docker, CCC (`@ckb-ccc/core`) for chain interaction; modular throughout (topology, keys, RPC, orchestration, scenarios, CLI, daemon), each module unit-tested against fakes so the suite runs without Docker.
 
 ---
 
 ## Links
 
-- **Forum post:** [ckb-viz: read any CKB transaction as a flow of cells](https://talk.nervos.org/t/ckb-viz-read-any-ckb-transaction-as-a-flow-of-cells/10482)
-- **Live:** [ckb-viz.truthixify.dev](https://ckb-viz.truthixify.dev)
-- **Source:** [github.com/truthixify/ckb-viz](https://github.com/truthixify/ckb-viz)
+- **ckb-viz forum post:** [ckb-viz: read any CKB transaction as a flow of cells](https://talk.nervos.org/t/ckb-viz-read-any-ckb-transaction-as-a-flow-of-cells/10482)
+- **ckb-viz live:** [ckb-viz.truthixify.dev](https://ckb-viz.truthixify.dev)
+- **ckb-viz source:** [github.com/truthixify/ckb-viz](https://github.com/truthixify/ckb-viz)
+- **fiber-forge source:** [github.com/truthixify/fiber-forge](https://github.com/truthixify/fiber-forge)
 
 ---
 
