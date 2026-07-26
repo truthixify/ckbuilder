@@ -34,6 +34,7 @@ CKBuilder is a 3-month structured program for developers new to blockchain devel
 | [Week 15](weekly-reports/week-15/) | Jun 28–Jul 4 | Building fiber-forge for the "Gone in 60ms" Fiber Network infrastructure hackathon |
 | [Week 16](weekly-reports/week-16/) | Jul 5–11 | ckb-viz — read-only CKB transaction visualizer (script decoding, plain-language summaries, lineage tracing) |
 | [Week 17](weekly-reports/week-17/) | Jul 12–18 | ckb-viz public launch + address view and `/simulate` transaction simulator (cycles, failing-script detection) |
+| [Week 18](weekly-reports/week-18/) | Jul 19–25 | ckb-viz `/learn` — interactive cell-model primer for newcomers (piggy-bank metaphor, build-a-transaction exercise) |
 
 ## Projects
 
@@ -87,6 +88,8 @@ weekly-reports/
   week-16/
     README.md       # Weekly progress report
   week-17/
+    README.md       # Weekly progress report
+  week-18/
     README.md       # Weekly progress report
 ```
 
